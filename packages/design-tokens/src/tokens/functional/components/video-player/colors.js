@@ -17,8 +17,8 @@ module.exports = {
       },
       title: {
         bgColor: {
-          value: 'linear-gradient(#01040966, var(--base-color-scale-transparent))',
-          dark: 'linear-gradient(#01040966, var(--base-color-scale-transparent))',
+          value: 'linear-gradient(180deg, rgba(0,0,0,0.9), rgba(0,0,0,0.45) 66%, transparent)',
+          dark: 'linear-gradient(180deg, rgba(0,0,0,0.9), rgba(0,0,0,0.45) 66%, transparent)',
         },
         fgColor: {
           value: 'var(--base-color-scale-gray-0)',
@@ -27,8 +27,8 @@ module.exports = {
       },
       controls: {
         bgColor: {
-          value: 'linear-gradient(var(--base-color-scale-transparent), #01040966)',
-          dark: 'linear-gradient(var(--base-color-scale-transparent), #01040966)',
+          value: 'rgba(0,0,0,0.75)',
+          dark: 'rgba(0,0,0,0.75)',
         },
         fgColor: {
           value: 'var(--base-color-scale-gray-0)',
@@ -66,8 +66,8 @@ module.exports = {
             dark: 'var(--base-color-scale-gray-0)',
           },
           progress: {
-            value: 'var(--base-color-scale-blue-5)',
-            dark: 'var(--base-color-scale-blue-5)',
+            value: 'var(--base-color-scale-blue-4)',
+            dark: 'var(--base-color-scale-blue-4)',
           },
         },
       },
