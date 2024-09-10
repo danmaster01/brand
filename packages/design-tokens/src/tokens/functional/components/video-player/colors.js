@@ -17,8 +17,8 @@ module.exports = {
       },
       title: {
         bgColor: {
-          value: 'linear-gradient(180deg, rgba(0,0,0,0.9), rgba(0,0,0,0.45) 66%, transparent)',
-          dark: 'linear-gradient(180deg, rgba(0,0,0,0.9), rgba(0,0,0,0.45) 66%, transparent)',
+          value: 'linear-gradient(180deg, #000000e6, #00000073 66%, transparent)',
+          dark: 'linear-gradient(180deg, #000000e6, #00000073 66%, transparent)',
         },
         fgColor: {
           value: 'var(--base-color-scale-gray-0)',
@@ -27,8 +27,8 @@ module.exports = {
       },
       controls: {
         bgColor: {
-          value: 'rgba(0,0,0,0.75)',
-          dark: 'rgba(0,0,0,0.75)',
+          value: '#000000bf',
+          dark: '#000000bf',
         },
         fgColor: {
           value: 'var(--base-color-scale-gray-0)',
